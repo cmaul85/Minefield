@@ -6,3 +6,5 @@
 
 ##Field::revealAdjacent
 
+- Needs to have inBounds result inverted with !
+
